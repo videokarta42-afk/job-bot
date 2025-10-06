@@ -1,0 +1,5 @@
+aiogram>=3.10,<4.0
+aiohttp
+requests
+python-dotenv
+pydantic
